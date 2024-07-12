@@ -1,4 +1,4 @@
-#include <iostrem>
+#include <iostream>
 using namespace std;
   
 int main()
@@ -7,6 +7,6 @@ int main()
   
   while (true)
   {
-    cout << "Gosto de programar << endl;
+    cout << "Gosto de programar" << endl;
   }
 }
