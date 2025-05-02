@@ -1,61 +1,12 @@
-<div align="center">
-  <img
-    src="https://github.com/user-attachments/assets/7751f7af-56be-403b-a41a-448dd2590309"  
-    alt="github-header-image"
-  />
-</div>
+<img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/78c6db0a-ac1a-4764-a3ea-9730c249626d" />
 
 # 🧰 Tech Stack
 
-<div>
-  <h2>Linguagens de Programação</h2>
-  <div style="display: flex" align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60" height="60" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60" height="60" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="60" height="60" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60" height="60" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" height="60" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="60" height="60" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" width="60" height="60" />
-  </div>
-  <h2>Tecnologias</h2>
-  <div style="display: flex", align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" width="60" height="60" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="60" height="60" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="60" height="60" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" width="60" height="60" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="60" height="60" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" width="60" height="60" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="60" height="60" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="60" height="60" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/d3js/d3js-original.svg" width="60" height="60" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" width="60" height="60" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="60" height="60" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="60" height="60" />
-  </div>
-  <h2>Frameworks</h2>
-  <div style="display: flex" align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="60" height="60" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grails/grails-original.svg" width="60" height="60" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="60" height="60" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" width="60" height="60" />
-  </div>
-  <h2>Distros</h2>
-  <div style="display: flex" align="center">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="60" height="60" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="60" height="60" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="60" height="60" />
-  </div>
-  
+Have worked with:
 
-  
-  
-  
-</div>
+![Static Badge](https://img.shields.io/badge/React-react?style=for-the-badge&logo=react&logoColor=%23fff&labelColor=%23000&color=%2361DAFB)
+![Static Badge](https://img.shields.io/badge/Nextjs-nextdotjs?style=for-the-badge&logo=nextdotjs&logoColor=%23fff&labelColor=%23000&color=%23000000)
+
 
 ---
 # :flushed: Sobre mim
