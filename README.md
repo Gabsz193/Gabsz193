@@ -6,7 +6,26 @@ Have worked with:
 
 ![Static Badge](https://img.shields.io/badge/React-react?style=for-the-badge&logo=react&logoColor=%23fff&labelColor=%23000&color=%2361DAFB)
 ![Static Badge](https://img.shields.io/badge/Nextjs-nextdotjs?style=for-the-badge&logo=nextdotjs&logoColor=%23fff&labelColor=%23000&color=%23000000)
+![Static Badge](https://img.shields.io/badge/spring-spring?style=for-the-badge&logo=spring&logoColor=%23fff&labelColor=%23000&color=%236DB33F)
+![Static Badge](https://img.shields.io/badge/android-android?style=for-the-badge&logo=android&logoColor=%23fff&labelColor=%23000&color=%233DDC84)
+![Static Badge](https://img.shields.io/badge/docker-docker?style=for-the-badge&logo=docker&logoColor=%23fff&labelColor=%23000&color=%232496ED)
+![Static Badge](https://img.shields.io/badge/python-python?style=for-the-badge&logo=python&logoColor=%23fff&labelColor=%23000&color=%233776AB)
+![Static Badge](https://img.shields.io/badge/machine_learning-machine_learning?style=for-the-badge&logo=huggingface&logoColor=%23fff&labelColor=%23000&color=%23FFD21E)
 
+Worked on distros:
+
+![Static Badge](https://img.shields.io/badge/ubuntu-ubuntu?style=for-the-badge&logo=ubuntu&logoColor=%23fff&labelColor=%23000&color=%23E95420)
+![Static Badge](https://img.shields.io/badge/mint-mint?style=for-the-badge&logo=linuxmint&logoColor=%23fff&labelColor=%23000&color=%2386BE43)
+![Static Badge](https://img.shields.io/badge/arch-arch?style=for-the-badge&logo=archlinux&logoColor=%23fff&labelColor=%23000&color=%231793D1)
+![Static Badge](https://img.shields.io/badge/debian-debian?style=for-the-badge&logo=debian&logoColor=%23fff&labelColor=%23000&color=%23A81D33)
+
+I Recommend:
+
+![Static Badge](https://img.shields.io/badge/intellij_idea-intellij_idea?style=for-the-badge&logo=intellijidea&logoColor=%23fff&labelColor=%23000&color=%23f7315c)
+![Static Badge](https://img.shields.io/badge/pycharm-pycharm?style=for-the-badge&logo=pycharm&logoColor=%23fff&labelColor=%23000&color=%2345d68d)
+![Static Badge](https://img.shields.io/badge/datagrip-datagrip?style=for-the-badge&logo=datagrip&logoColor=%23fff&labelColor=%23000&color=%23a87be8)
+![Static Badge](https://img.shields.io/badge/webstorm-webstorm?style=for-the-badge&logo=webstorm&logoColor=%23fff&labelColor=%23000&color=%232dcbd6)
+![Static Badge](https://img.shields.io/badge/clion-clion?style=for-the-badge&logo=clion&logoColor=%23fff&labelColor=%23000&color=%233fd982)
 
 ---
 # :flushed: Sobre mim
